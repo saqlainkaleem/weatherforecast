@@ -1,0 +1,16 @@
+h1 {
+	text-align: center;
+}
+.Nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 2rem 0 2rem;
+}
+.Container {
+	margin-top: 0;
+}
+.Nav img {
+	width: 80px;
+	height: 80px;
+}
