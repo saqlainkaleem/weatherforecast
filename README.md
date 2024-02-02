@@ -14,7 +14,12 @@ Link: https://forecast-weather-1.netlify.app/
   - **`api.js`** contains the code related to the back-end of the application.
 
 # Install
+- Clone the repository:
 
+```bash
+git clone https://github.com/saqlainkaleem/weatherforecast.git
+
+```
 - Install the packages using the command `npm install`
 
 # Used libraries
@@ -25,5 +30,5 @@ Link: https://forecast-weather-1.netlify.app/
 Check `packages.json` for details
 
 <br/>
-Thank You ^\_^
-```
+Thank You
+
