@@ -1,6 +1,6 @@
 # WeatherForecast
 
-[The Weather Forecasting](https://forecast-weather-1.netlify.app/) app is developed using React.js and custom CSS. User can search locations by city name and observe the current weather and forecast weather for the next 5 days .
+[The Weather Forecasting](https://forecast-weather-1.netlify.app/) app is developed using React.js, CSS and OpenWeatherMap API. User can search locations by city name and observe the current weather and forecast weather for the next 5 days .
 
 # Live Demo:
 
